@@ -1,0 +1,140 @@
+1. Lab
+	NodeJS with NPM 
+	React (we will be installing this)
+	VS Code
+
+2. Knowledge
+	HTML, CSS and JS
+	Any programming/Scripting fundmentals
+----------------------------------------------------------------------------------------------------------------------------------
+
+				
+
+						React is a result of Web Revolution
+
+	a. What is a web revolution ?
+
+		-- When was the first time u used internet ? - 2007 is the global average
+		-- Why did u use internet in those days - view results, projects, emails, downloads, surfing
+		-- where did u use internet in those days - Cyber cafe / Home
+		-- Source of internet ? - Broadband / telephone lines
+		-- Which devise u used ? Desktop - laptop(rare)
+
+
+	Thus developers used to create web contents for the above requirements
+		This used to be a server centeric applications - thus we had server centeric frameworks for developmnet
+======================================================================================================================
+
+				Today, this has revoluationised 
+
+		-- Why did u use internet in those days - for everything and anything
+		-- Where do u use internet ?            - everywhere
+		-- Source of internet ? Wifi - MobileData
+		-- Which devise u used - Mobiles phones / Tablets / laptops
+		-- Habbits - camera, navigation, location shareing, 
+			tilt the phone, zoom in zoom out with fingues
+			login, useing facebook, insta, twitter
+			Thus Developer needs to develop application accordingly 
+				users are on Mobile network (is always flucuating)
+
+
+	Thus we need to develop differnet type of application all together
+		We need a client centeric framework - React, Angular, backbone came in
+						Do everthing on client devise - Reduce the roundrips between devise and server
+
+			Thus a web pattern for client end development came out - Component based development
+
+			React fraework by Facebook - for UI development
+			1. Everything is a component 
+			2. Client devise (including mobile phone) understands only 3 things
+						HTML, CSS, JS
+		
+			3. HTML is now upgraged to HTML5 (this takes care of lots of change in new era)
+			4. CSS is now CSS3 - great changes
+			5. JS (not object oriented) has been upgraded now to OOPS - ES6 
+				ES6-7 is not easy to use program (very very difficult to programm)
+				Thus microsoft made it easy - calls it as Typescript (similar to C# and Java)
+				
+			Combination of (HTML5, CSS3 and ES) forms a component
+			Component is a plug-in
+
+		Eg. An website / APP has 6 pages
+			Home
+			About
+			Contact
+			News
+			Careers
+			Login
+
+			you need to have minimum 6 components
+
+
+	----------------------------------------------------------------------------
+		set up and installtion
+
+		1. NodeJS will act as a server, which will host ur application and u would be able to browse the app on browser
+			NodeJS is by google
+			https://nodejs.org/en/ (16.16)
+		2. NPM - Node package manager - download packages for development
+			(this gets installed with Node)
+		3. npm view react version
+		
+		4. VS Code 
+
+
+			
+			
+
+			
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
